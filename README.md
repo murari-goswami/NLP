@@ -1,2 +1,6 @@
 ## Natural Language Processing
-Read the corresponding blog post here:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html
+1. Read the corresponding blog post here:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html
+More Reading Material and some of my Resources
+1. https://triton.ml/blog/tf-idf-from-scratch
+2. https://www.machinelearningplus.com/nlp/cosine-similarity/
+3. https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
