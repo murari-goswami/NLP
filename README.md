@@ -1,9 +1,11 @@
 ## Natural Language Processing
+###You can run all the notebooks in Google colab
+
 1.  part 1 blog post:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html
 2.  part 2 blog post:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-word.html
 
-part 1 Notebook- https://github.com/soumyadip1995/NLP/blob/master/Natural_language_processing_A_beginner's_introduction.ipynb
-part 2 notebook- https://github.com/soumyadip1995/NLP/blob/master/NLP_word_embeddings.ipynb
+1. part 1 Notebook- https://github.com/soumyadip1995/NLP/blob/master/Natural_language_processing_A_beginner's_introduction.ipynb
+2. part 2 notebook- https://github.com/soumyadip1995/NLP/blob/master/NLP_word_embeddings.ipynb
 
 
 
