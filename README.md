@@ -2,7 +2,7 @@
 Given below are the necessary blog posts for this repo and its Corressponding  notebooks. You can run all the notebooks in Google colab
 
 ## Blog posts
-1.  part 1 blog post:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html
+1.  part 1 blog post:- [here](https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html)
 2.  part 2 blog post:- https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-word.html
 
 ## Corressponding Notebooks
