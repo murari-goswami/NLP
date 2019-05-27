@@ -1,4 +1,7 @@
+
 ## Natural Language Processing
+![alt_text](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/10/26015527/121.jpg)
+
 Given below are the necessary blog posts for this repo and its Corressponding  notebooks. You can run all the notebooks in Google colab
 
 ## Blog posts
